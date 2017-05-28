@@ -1,14 +1,14 @@
 ---
-title: Homepage Showcase
+title: Juicebox Showcase
 menu: Top
 buttons:
-    - text: Read the Documentation
-      url: http://learn.getgrav.org
+    - text: Give us a review
+      url: https://goo.gl/rE3LbV
       primary: true
 ---
 
-# Welcome to Grav
-## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
+# The Juicebox
+## Bhavin & Auntie **Juicebox Downstairs**, Mahsa & Powlsy **Juicebob Upstairs**...
 
 
 
