@@ -3,21 +3,21 @@ title: Homepage Highlights
 menu: Highlights
 class: big
 features:
-	- header: Crazy Fast
-	  text: "Performance is not just an after thought, we baked it in from the start!"
-	  icon: fighter-jet
-    - header: Easy to build
-      text: "Simple text files means Grav is trivial to install, and easy to maintain."
-      icon: database
-    - header: Awesome Technology
-      text: "Grav employees best-in-class technologies such as Twig, Markdown &amp; Yaml"
-      icon: cubes
-    - header: Super Flexible
-      text: "From the ground up, with many plugin hooks, Grav is extremely extensible"
-      icon: puzzle-piece
+	- header: Home
+	  text: "It's where we live!"
+	  icon: home
+  - header: Work
+    text: "Some of us work from here too.."
+    icon: database
+  - header: Fun
+    text: "We have game nights and get togethers!"
+    icon: puzzle-piece
+  - header: Adventure
+    text: "We plan adventures with the Adventurbu crew"
+    icon: map-o
 ---
 
-## Built on top of Greatness
-### Four core tenants keep Grav focused
+## Built in 1876
+### Four core tenants keep things running
 
-We believe the best recipe to make something great, is to bake with [quality ingredients](#) and add dollops of [cool stuff](#). 
+We love fixing and making things great, crafting and baking with [pals](https://twitter.com/mbotastic). 

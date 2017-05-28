@@ -8,7 +8,7 @@ buttons:
 ---
 
 # The Juicebox
-## Bhavin & Auntie **Juicebox Downstairs**, Mahsa & Powlsy **Juicebob Upstairs**...
+## Bhavin & Auntie **Juicebox Downstairs**, Mahsa & Powlsy **Juicebox Upstairs**...
 
 
 
