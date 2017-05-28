@@ -3,7 +3,7 @@ title: Homepage Features
 menu: Features
 class: small
 features:
-    - header: Markdown Syntax
+    - header: Markdown YAAS
       icon: text-height
     - header: Twig Templating
       icon: code
